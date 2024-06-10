@@ -1,1 +1,1 @@
-spell checker
+This spell checker project involves developing a software tool that automatically detects and corrects spelling errors in text documents. You can type your content or upload a file which you want to check.
